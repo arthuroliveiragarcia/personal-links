@@ -2,7 +2,8 @@
 Agrupador de Links
 Link de acesso ao projeto: arthuroliveiragarcia.github.io
 
-![image](https://github.com/arthuroliveiragarcia/siteredirect/assets/73202098/fc422628-cb4d-4061-ba9e-36a266141f61)
+![image](https://github.com/arthuroliveiragarcia/personal-links/assets/73202098/6e997e2f-9d3d-461e-a44f-f68ce4c552c4)
+
 
 🚀 Tecnologias
 
